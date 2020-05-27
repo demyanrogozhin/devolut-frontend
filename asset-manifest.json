@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/devolut-frontent/static/css/main.ae80000b.chunk.css",
+    "main.js": "/devolut-frontent/static/js/main.b6c0f3cc.chunk.js",
+    "main.js.map": "/devolut-frontent/static/js/main.b6c0f3cc.chunk.js.map",
+    "runtime-main.js": "/devolut-frontent/static/js/runtime-main.e44ca5a2.js",
+    "runtime-main.js.map": "/devolut-frontent/static/js/runtime-main.e44ca5a2.js.map",
+    "static/js/2.b2ba427f.chunk.js": "/devolut-frontent/static/js/2.b2ba427f.chunk.js",
+    "static/js/2.b2ba427f.chunk.js.map": "/devolut-frontent/static/js/2.b2ba427f.chunk.js.map",
+    "index.html": "/devolut-frontent/index.html",
+    "precache-manifest.bdfafce4e16efed9bea7ec47751cedb2.js": "/devolut-frontent/precache-manifest.bdfafce4e16efed9bea7ec47751cedb2.js",
+    "service-worker.js": "/devolut-frontent/service-worker.js",
+    "static/css/main.ae80000b.chunk.css.map": "/devolut-frontent/static/css/main.ae80000b.chunk.css.map",
+    "static/js/2.b2ba427f.chunk.js.LICENSE.txt": "/devolut-frontent/static/js/2.b2ba427f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e44ca5a2.js",
+    "static/js/2.b2ba427f.chunk.js",
+    "static/css/main.ae80000b.chunk.css",
+    "static/js/main.b6c0f3cc.chunk.js"
+  ]
+}
